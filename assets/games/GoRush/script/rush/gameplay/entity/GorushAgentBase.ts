@@ -1,7 +1,7 @@
 import { _decorator, Component, Node, SkeletalAnimation, AnimationState } from 'cc';
 const { ccclass, property } = _decorator;
 
-@ccclass
+@ccclass('GorushAgentBase')
 export class GorushAgentBase extends Component {
     static AnimNamePre_FlyLoop: string = "loop";
 
