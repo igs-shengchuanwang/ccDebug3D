@@ -1,0 +1,15 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "27bf40c1-140f-4996-9304-8627c7897b9c",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {},
+    "isRemoteBundle": {},
+    "isBundle": true,
+    "bundleName": "dynamic_item",
+    "bundleConfigID": "81Ec5UecZKl4QjH92S+QD4"
+  }
+}

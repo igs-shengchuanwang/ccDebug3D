@@ -1,0 +1,271 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767",
+  "files": [],
+  "subMetas": {
+    "26353": {
+      "importer": "gltf-scene",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@26353",
+      "displayName": "",
+      "id": "26353",
+      "name": "world_fx.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46540": {
+      "importer": "gltf-mesh",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@46540",
+      "displayName": "",
+      "id": "46540",
+      "name": "Box001.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8a2d": {
+      "importer": "gltf-mesh",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@b8a2d",
+      "displayName": "",
+      "id": "b8a2d",
+      "name": "Plane001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0692d": {
+      "importer": "gltf-mesh",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@0692d",
+      "displayName": "",
+      "id": "0692d",
+      "name": "Plane002.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2f63": {
+      "importer": "gltf-mesh",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@d2f63",
+      "displayName": "",
+      "id": "d2f63",
+      "name": "Plane003.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f75d": {
+      "importer": "gltf-mesh",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@5f75d",
+      "displayName": "",
+      "id": "5f75d",
+      "name": "Plane004.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0ffc": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@c0ffc",
+      "displayName": "",
+      "id": "c0ffc",
+      "name": "マップ #1.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "5d68c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@5d68c",
+      "displayName": "",
+      "id": "5d68c",
+      "name": "マップ #2.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "54a64": {
+      "importer": "texture",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@54a64",
+      "displayName": "",
+      "id": "54a64",
+      "name": "マップ #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c9726653-23e8-495c-8ea8-84ed90d80767@c0ffc"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56dc1": {
+      "importer": "texture",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@56dc1",
+      "displayName": "",
+      "id": "56dc1",
+      "name": "マップ #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c9726653-23e8-495c-8ea8-84ed90d80767@5d68c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "958b3": {
+      "importer": "gltf-material",
+      "uuid": "c9726653-23e8-495c-8ea8-84ed90d80767@958b3",
+      "displayName": "",
+      "id": "958b3",
+      "name": "Material #1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "マップ #1",
+        "uri": "c9726653-23e8-495c-8ea8-84ed90d80767@c0ffc"
+      },
+      {
+        "name": "マップ #2",
+        "uri": "c9726653-23e8-495c-8ea8-84ed90d80767@5d68c"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c9726653-23e8-495c-8ea8-84ed90d80767@26353",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c9726653-23e8-495c-8ea8-84ed90d80767@b8a2d",
+        "c9726653-23e8-495c-8ea8-84ed90d80767@0692d",
+        "c9726653-23e8-495c-8ea8-84ed90d80767@d2f63",
+        "c9726653-23e8-495c-8ea8-84ed90d80767@5f75d",
+        "c9726653-23e8-495c-8ea8-84ed90d80767@46540"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c9726653-23e8-495c-8ea8-84ed90d80767@54a64",
+        "c9726653-23e8-495c-8ea8-84ed90d80767@56dc1"
+      ],
+      "materials": [
+        "c9726653-23e8-495c-8ea8-84ed90d80767@958b3"
+      ],
+      "scenes": [
+        "c9726653-23e8-495c-8ea8-84ed90d80767@26353"
+      ]
+    }
+  }
+}

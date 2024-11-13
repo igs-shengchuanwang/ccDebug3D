@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "8e18d1d9-15d6-4d68-9cb9-fba423abb4c9",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "8e18d1d9-15d6-4d68-9cb9-fba423abb4c9@6c48a",
+      "displayName": "BSuke_calm",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8e18d1d9-15d6-4d68-9cb9-fba423abb4c9",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "redirect": "8e18d1d9-15d6-4d68-9cb9-fba423abb4c9@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "30YIoHwqVMqaZiFpUemzHW"
+    }
+  }
+}

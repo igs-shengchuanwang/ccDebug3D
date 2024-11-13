@@ -1,0 +1,40 @@
+{
+  "ver": "1.2.2",
+  "importer": "render-texture",
+  "imported": true,
+  "uuid": "f3823986-ba4c-43ef-aae5-f526326ec79d",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "f9941": {
+      "importer": "rt-sprite-frame",
+      "uuid": "f3823986-ba4c-43ef-aae5-f526326ec79d@f9941",
+      "displayName": "Rocket_r",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "imageUuidOrDatabaseUri": "f3823986-ba4c-43ef-aae5-f526326ec79d",
+        "width": 512,
+        "height": 512
+      },
+      "ver": "1.0.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "width": 512,
+    "height": 512,
+    "anisotropy": 0,
+    "minfilter": "linear",
+    "magfilter": "linear",
+    "mipfilter": "nearest",
+    "wrapModeS": "clamp-to-edge",
+    "wrapModeT": "clamp-to-edge",
+    "redirect": "f3823986-ba4c-43ef-aae5-f526326ec79d@f9941"
+  }
+}

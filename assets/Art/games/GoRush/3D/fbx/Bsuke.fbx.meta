@@ -1,0 +1,841 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb",
+    "__original-animation-5.cconb",
+    "__original-animation-6.cconb",
+    "__original-animation-7.cconb",
+    "__original-animation-8.cconb",
+    "__original-animation-9.cconb"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 18
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "52019": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@52019",
+      "displayName": "",
+      "id": "52019",
+      "name": "eject.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1da81": {
+      "importer": "gltf-mesh",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@1da81",
+      "displayName": "",
+      "id": "1da81",
+      "name": "BSuke.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 3048
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ca9f": {
+      "importer": "gltf-mesh",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@6ca9f",
+      "displayName": "",
+      "id": "6ca9f",
+      "name": "face.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 62
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ad30": {
+      "importer": "gltf-mesh",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@0ad30",
+      "displayName": "",
+      "id": "0ad30",
+      "name": "Reference_bsuke.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4ea9": {
+      "importer": "gltf-mesh",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@a4ea9",
+      "displayName": "",
+      "id": "a4ea9",
+      "name": "APControl_bsuke.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e0dd": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@8e0dd",
+      "displayName": "",
+      "id": "8e0dd",
+      "name": "start_org.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 6
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8e0ddf": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@8e0ddf",
+      "displayName": "",
+      "id": "8e0ddf",
+      "name": "start.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "speed": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.333333333333333
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "9e91e": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@9e91e",
+      "displayName": "",
+      "id": "9e91e",
+      "name": "takeoff.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "speed": 1,
+        "sample": 30,
+        "span": {
+          "from": 4.333333333333333,
+          "to": 6
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f5443": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@f5443",
+      "displayName": "",
+      "id": "f5443",
+      "name": "loop0.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": [],
+        "speed": 2.6
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f755d": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@f755d",
+      "displayName": "",
+      "id": "f755d",
+      "name": "loop1.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": [],
+        "speed": 1.6
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "2b013": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@2b013",
+      "displayName": "",
+      "id": "2b013",
+      "name": "loop2.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "a098e": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@a098e",
+      "displayName": "",
+      "id": "a098e",
+      "name": "loop3.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": [],
+        "speed": 1.6
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f3ce0": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@f3ce0",
+      "displayName": "",
+      "id": "f3ce0",
+      "name": "restart0.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.333333333333333
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "855df": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@855df",
+      "displayName": "",
+      "id": "855df",
+      "name": "retakeoff0.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 1,
+        "speed": 1,
+        "sample": 30,
+        "span": {
+          "from": 4.333333333333333,
+          "to": 6
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "641f7": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@641f7",
+      "displayName": "",
+      "id": "641f7",
+      "name": "result.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "58a23": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@58a23",
+      "displayName": "",
+      "id": "58a23",
+      "name": "explode.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 1,
+        "speed": 1.3,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8a2df": {
+      "importer": "gltf-animation",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@8a2df",
+      "displayName": "",
+      "id": "8a2df",
+      "name": "loop4.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 7.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00bd0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@00bd0",
+      "displayName": "",
+      "id": "00bd0",
+      "name": "Map #217903.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c130c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@c130c",
+      "displayName": "",
+      "id": "c130c",
+      "name": "Map #217905.image",
+      "userData": {
+        "gltfIndex": 2,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "2124d": {
+      "importer": "texture",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@2124d",
+      "displayName": "",
+      "id": "2124d",
+      "name": "Map #217903.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@00bd0"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "019c5": {
+      "importer": "texture",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@019c5",
+      "displayName": "",
+      "id": "019c5",
+      "name": "Map #217904.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Art/games/GoRush/3D"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7149c": {
+      "importer": "texture",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@7149c",
+      "displayName": "",
+      "id": "7149c",
+      "name": "Map #217905.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@c130c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8f9f": {
+      "importer": "gltf-material",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@c8f9f",
+      "displayName": "",
+      "id": "c8f9f",
+      "name": "BSuke.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "64ea9": {
+      "importer": "gltf-material",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@64ea9",
+      "displayName": "",
+      "id": "64ea9",
+      "name": "BSuke_happy.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1de3": {
+      "importer": "gltf-material",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@f1de3",
+      "displayName": "",
+      "id": "f1de3",
+      "name": "bone.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "983f5": {
+      "importer": "gltf-scene",
+      "uuid": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@983f5",
+      "displayName": "",
+      "id": "983f5",
+      "name": "Bsuke.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #217903",
+        "uri": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@00bd0"
+      },
+      {
+        "name": "Map #217904",
+        "uri": "db://assets/Art/games/GoRush/3D"
+      },
+      {
+        "name": "Map #217905",
+        "uri": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@c130c"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "start",
+        "duration": 6,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "start_org",
+            "from": 0,
+            "to": 6,
+            "wrapMode": 1,
+            "previousId": "8e0dd",
+            "fps": 30
+          },
+          {
+            "name": "start",
+            "from": 0,
+            "to": 4.333333333333333,
+            "wrapMode": 1,
+            "speed": 1,
+            "previousId": "8e0ddf"
+          },
+          {
+            "name": "takeoff",
+            "from": 4.333333333333333,
+            "to": 6,
+            "wrapMode": 1,
+            "speed": 1,
+            "previousId": "9e91e"
+          }
+        ]
+      },
+      {
+        "name": "loop0",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "loop0",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "f5443",
+            "speed": 2.6
+          }
+        ]
+      },
+      {
+        "name": "loop1",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "loop1",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "f755d",
+            "speed": 1.6
+          }
+        ]
+      },
+      {
+        "name": "loop2",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "loop2",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "2b013",
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "name": "loop3",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "loop3",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "a098e",
+            "speed": 1.6
+          }
+        ]
+      },
+      {
+        "name": "eject",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "eject",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 1,
+            "previousId": "52019"
+          }
+        ]
+      },
+      {
+        "name": "restart0",
+        "duration": 6,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "restart0",
+            "from": 0,
+            "to": 4.333333333333333,
+            "wrapMode": 1,
+            "previousId": "f3ce0"
+          },
+          {
+            "name": "retakeoff0",
+            "from": 4.333333333333333,
+            "to": 6,
+            "wrapMode": 1,
+            "speed": 1,
+            "previousId": "855df"
+          }
+        ]
+      },
+      {
+        "name": "result",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "result",
+            "from": 0,
+            "to": 3,
+            "wrapMode": 1,
+            "previousId": "641f7"
+          }
+        ]
+      },
+      {
+        "name": "explode",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "explode",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 1,
+            "previousId": "58a23",
+            "speed": 1.3
+          }
+        ]
+      },
+      {
+        "name": "loop4",
+        "duration": 7.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "loop4",
+            "from": 0,
+            "to": 7.333333492279053,
+            "wrapMode": 2,
+            "previousId": "8a2df"
+          }
+        ]
+      }
+    ],
+    "redirect": "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@983f5",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@1da81",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@6ca9f",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@0ad30",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@a4ea9"
+      ],
+      "skeletons": [
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@30732",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@f1394"
+      ],
+      "textures": [
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@2124d",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@019c5",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@7149c"
+      ],
+      "materials": [
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@c8f9f",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@64ea9",
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@f1de3"
+      ],
+      "scenes": [
+        "c61f2cc7-cc68-4d1a-b84a-1a2a255ff2f5@983f5"
+      ]
+    }
+  }
+}

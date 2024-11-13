@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee",
+  "files": [],
+  "subMetas": {
+    "fb329": {
+      "importer": "gltf-mesh",
+      "uuid": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@fb329",
+      "displayName": "",
+      "id": "fb329",
+      "name": "Sphere001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 528
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d68c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@5d68c",
+      "displayName": "",
+      "id": "5d68c",
+      "name": "マップ #2.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "56dc1": {
+      "importer": "texture",
+      "uuid": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@56dc1",
+      "displayName": "",
+      "id": "56dc1",
+      "name": "マップ #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@5d68c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d093": {
+      "importer": "gltf-material",
+      "uuid": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@9d093",
+      "displayName": "",
+      "id": "9d093",
+      "name": "Material #25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61be0": {
+      "importer": "gltf-scene",
+      "uuid": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@61be0",
+      "displayName": "",
+      "id": "61be0",
+      "name": "skill.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "マップ #2",
+        "uri": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@5d68c"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@61be0",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@fb329"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@56dc1"
+      ],
+      "materials": [
+        "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@9d093"
+      ],
+      "scenes": [
+        "2da9d827-e4f1-4e85-90ab-7873b7ddd6ee@61be0"
+      ]
+    }
+  }
+}

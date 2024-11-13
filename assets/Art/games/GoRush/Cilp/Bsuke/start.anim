@@ -1,0 +1,128 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "start",
+    "_objFlags": 0,
+    "__editorExtras__": {
+      "embeddedPlayerGroups": []
+    },
+    "_native": "",
+    "sample": 30,
+    "speed": 1,
+    "wrapMode": 1,
+    "enableTrsBlending": false,
+    "_duration": 5,
+    "_hash": 500763545,
+    "_tracks": [
+      {
+        "__id__": 1
+      }
+    ],
+    "_exoticAnimation": null,
+    "_events": [],
+    "_embeddedPlayers": [],
+    "_additiveSettings": {
+      "__id__": 8
+    },
+    "_auxiliaryCurveEntries": []
+  },
+  {
+    "__type__": "cc.animation.ObjectTrack",
+    "_binding": {
+      "__type__": "cc.animation.TrackBinding",
+      "path": {
+        "__id__": 2
+      },
+      "proxy": {
+        "__id__": 5
+      }
+    },
+    "_channel": {
+      "__id__": 6
+    }
+  },
+  {
+    "__type__": "cc.animation.TrackPath",
+    "_paths": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      "materials",
+      0
+    ]
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "Bsuke/face"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SkinnedMeshRenderer"
+  },
+  {
+    "__type__": "cc.animation.UniformProxyFactory",
+    "passIndex": 0,
+    "uniformName": "mainTexture"
+  },
+  {
+    "__type__": "cc.animation.Channel",
+    "_curve": {
+      "__id__": 7
+    }
+  },
+  {
+    "__type__": "cc.ObjectCurve",
+    "_times": [
+      0,
+      0.9666666666666667,
+      1.1333333333333333,
+      1.6666666666666667,
+      2.1666666666666665,
+      4.4,
+      4.633333333333334,
+      5
+    ],
+    "_values": [
+      {
+        "__uuid__": "58ac19f0-fc39-4a19-82bb-9dd73d05f287@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      {
+        "__uuid__": "183c2d7f-91f2-470b-a723-3ef09efdaf16@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      {
+        "__uuid__": "58ac19f0-fc39-4a19-82bb-9dd73d05f287@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      {
+        "__uuid__": "8e18d1d9-15d6-4d68-9cb9-fba423abb4c9@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      {
+        "__uuid__": "58ac19f0-fc39-4a19-82bb-9dd73d05f287@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      {
+        "__uuid__": "183c2d7f-91f2-470b-a723-3ef09efdaf16@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      {
+        "__uuid__": "8e18d1d9-15d6-4d68-9cb9-fba423abb4c9@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      {
+        "__uuid__": "58ac19f0-fc39-4a19-82bb-9dd73d05f287@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    ]
+  },
+  {
+    "__type__": "cc.AnimationClipAdditiveSettings",
+    "enabled": false,
+    "refClip": null
+  }
+]

@@ -1,0 +1,706 @@
+{
+  "ver": "2.3.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb",
+    "__original-animation-5.cconb",
+    "__original-animation-6.cconb",
+    "__original-animation-7.cconb",
+    "__original-animation-8.cconb"
+  ],
+  "subMetas": {
+    "11873": {
+      "importer": "gltf-material",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@11873",
+      "displayName": "",
+      "id": "11873",
+      "name": "Material #0.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 4
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "52019": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@52019",
+      "displayName": "",
+      "id": "52019",
+      "name": "eject.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "70808": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@70808",
+      "displayName": "",
+      "id": "70808",
+      "name": "drone_standby.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.03333333507180214
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "76319": {
+      "importer": "gltf-mesh",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@76319",
+      "displayName": "",
+      "id": "76319",
+      "name": "Drone_gold.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 604
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "031aa": {
+      "importer": "gltf-mesh",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@031aa",
+      "displayName": "",
+      "id": "031aa",
+      "name": "Drone_copper.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 626
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce328": {
+      "importer": "gltf-mesh",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@ce328",
+      "displayName": "",
+      "id": "ce328",
+      "name": "Drone_silver.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 486
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e621e": {
+      "importer": "gltf-mesh",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@e621e",
+      "displayName": "",
+      "id": "e621e",
+      "name": "Reference_drone.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "305d6": {
+      "importer": "gltf-mesh",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@305d6",
+      "displayName": "",
+      "id": "305d6",
+      "name": "APControl_drone.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3ce0": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@f3ce0",
+      "displayName": "",
+      "id": "f3ce0",
+      "name": "restart0.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 6
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "98a5b": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@98a5b",
+      "displayName": "",
+      "id": "98a5b",
+      "name": "drone.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.6666667461395264
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "641f7": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@641f7",
+      "displayName": "",
+      "id": "641f7",
+      "name": "result.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1f811": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@1f811",
+      "displayName": "",
+      "id": "1f811",
+      "name": "drone_in.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.1666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e407d": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@e407d",
+      "displayName": "",
+      "id": "e407d",
+      "name": "drone_out.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "631a9": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@631a9",
+      "displayName": "",
+      "id": "631a9",
+      "name": "drone_loop.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8e0dd": {
+      "importer": "gltf-animation",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@8e0dd",
+      "displayName": "",
+      "id": "8e0dd",
+      "name": "start.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 2
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 2
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99d8a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@99d8a",
+      "displayName": "",
+      "id": "99d8a",
+      "name": "Map #12545642-0.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3acf3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@3acf3",
+      "displayName": "",
+      "id": "3acf3",
+      "name": "Map #12545642-1.image",
+      "userData": {
+        "gltfIndex": 1,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a4d9e": {
+      "importer": "texture",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@a4d9e",
+      "displayName": "",
+      "id": "a4d9e",
+      "name": "Map #12545642-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a508e63b-08d4-442d-acf4-66b9e1bb0965@99d8a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24f67": {
+      "importer": "texture",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@24f67",
+      "displayName": "",
+      "id": "24f67",
+      "name": "Map #12545642-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a508e63b-08d4-442d-acf4-66b9e1bb0965@3acf3"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4cbc9": {
+      "importer": "gltf-material",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@4cbc9",
+      "displayName": "",
+      "id": "4cbc9",
+      "name": "Drone_gift.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8a20": {
+      "importer": "gltf-material",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@f8a20",
+      "displayName": "",
+      "id": "f8a20",
+      "name": "Material #46.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0103b": {
+      "importer": "gltf-scene",
+      "uuid": "a508e63b-08d4-442d-acf4-66b9e1bb0965@0103b",
+      "displayName": "",
+      "id": "0103b",
+      "name": "Drone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #12545642",
+        "uri": "a508e63b-08d4-442d-acf4-66b9e1bb0965@99d8a"
+      },
+      {
+        "name": "Map #12545642",
+        "uri": "a508e63b-08d4-442d-acf4-66b9e1bb0965@3acf3"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a508e63b-08d4-442d-acf4-66b9e1bb0965@0103b",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@76319",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@031aa",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@ce328",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@e621e",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@305d6"
+      ],
+      "skeletons": [
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@30732",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@f1394",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@75ee4"
+      ],
+      "textures": [
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@a4d9e",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@24f67"
+      ],
+      "materials": [
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@4cbc9",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@f8a20",
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@11873"
+      ],
+      "scenes": [
+        "a508e63b-08d4-442d-acf4-66b9e1bb0965@0103b"
+      ]
+    },
+    "animationImportSettings": [
+      {
+        "name": "restart0",
+        "duration": 6,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "restart0",
+            "from": 0,
+            "to": 6,
+            "wrapMode": 1,
+            "previousId": "f3ce0"
+          }
+        ]
+      },
+      {
+        "name": "drone",
+        "duration": 3.6666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "drone",
+            "from": 0,
+            "to": 3.6666667461395264,
+            "wrapMode": 2,
+            "previousId": "98a5b"
+          }
+        ]
+      },
+      {
+        "name": "result",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "result",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 1,
+            "previousId": "641f7"
+          }
+        ]
+      },
+      {
+        "name": "drone_in",
+        "duration": 2.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "drone_in",
+            "from": 0,
+            "to": 2.1666667461395264,
+            "wrapMode": 1,
+            "previousId": "1f811"
+          }
+        ]
+      },
+      {
+        "name": "drone_out",
+        "duration": 1.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "drone_out",
+            "from": 0,
+            "to": 1.5,
+            "wrapMode": 1,
+            "previousId": "e407d"
+          }
+        ]
+      },
+      {
+        "name": "drone_loop",
+        "duration": 3,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "drone_loop",
+            "from": 0,
+            "to": 3,
+            "wrapMode": 2,
+            "previousId": "631a9"
+          }
+        ]
+      },
+      {
+        "name": "drone_standby",
+        "duration": 0.03333333507180214,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "drone_standby",
+            "from": 0,
+            "to": 0.03333333507180214,
+            "wrapMode": 1,
+            "previousId": "70808"
+          }
+        ]
+      },
+      {
+        "name": "eject",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "eject",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 1,
+            "previousId": "52019"
+          }
+        ]
+      },
+      {
+        "name": "start",
+        "duration": 4.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "start",
+            "from": 0,
+            "to": 4.333333492279053,
+            "wrapMode": 1,
+            "previousId": "8e0dd"
+          }
+        ]
+      }
+    ]
+  }
+}
