@@ -40,7 +40,7 @@ export class GorushAgentBase extends Component {
 
     loopPlay() {
         let state = this.skeleton.getState(this.skeleton.clips[this.loopIdx].name);
-        this.skeleton.play(state.name);
+        this.animate(state.name);
         this.loopIdx = (this.loopIdx + 1) % this.skeleton.clips.length; // next
         this.scheduleOnce(() => {
             if (!this.isValid || !this.node || !this.node.isValid || !this.node.activeInHierarchy) {
